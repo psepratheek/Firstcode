@@ -1,0 +1,2 @@
+# Firstcode
+intial code test
