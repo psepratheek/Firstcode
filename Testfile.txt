@@ -1,1 +1,1 @@
- This is a tes to attempt Git Hook
+ This is a test to attempt Git Hook
