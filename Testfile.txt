@@ -1,1 +1,1 @@
- THis is a tes to attempt Git Hookt
+ This is a tes to attempt Git Hook
